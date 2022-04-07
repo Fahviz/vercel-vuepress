@@ -5,7 +5,8 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
-      { text: "开发", link: "/dev/" },
+      { text: "开发", link: "/devlop/" },
+      { text: "游戏", link: "/game/" },
     ],
   },
 };
